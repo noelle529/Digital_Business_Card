@@ -22,7 +22,7 @@ body{
 }
 a{
   color: #200F0F;
-  margin: 6px;
+  margin: 7px;
 }
 @media screen and (min-width: 320px), (max-width: 768px){
   .Main{
