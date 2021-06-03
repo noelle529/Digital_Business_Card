@@ -7,7 +7,8 @@ function App() {
   var Job = 'Special Education Teacher Grades (7-12)'
   var Name ='My name is Noelle Charter'
   var Skill=(<p><b>Skills</b>: Front-end development, Tarot reading</p>)
-  var Edu = (<p><b>Buffalo State (BS)</b>: Speech-language pathology <br/> <b>Pace University (MSEd)</b>: Special Education Teacher Grades (7-12)</p>)
+  var Edu = (<p><b>Buffalo State (BS)</b>: Speech-language pathology <br/> 
+      <b>Pace University (MSEd)</b>: Special Education Teacher Grades (7-12)</p>)
   const [text, setSkills] = useState(Name)
   const handleName = () =>{
     setSkills(Name)
