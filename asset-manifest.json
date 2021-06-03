@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/noelle529/Digital_Business_Card.git/static/css/main.f249deab.chunk.css",
-    "main.js": "/noelle529/Digital_Business_Card.git/static/js/main.c1cc8034.chunk.js",
-    "main.js.map": "/noelle529/Digital_Business_Card.git/static/js/main.c1cc8034.chunk.js.map",
+    "main.js": "/noelle529/Digital_Business_Card.git/static/js/main.caa4ed86.chunk.js",
+    "main.js.map": "/noelle529/Digital_Business_Card.git/static/js/main.caa4ed86.chunk.js.map",
     "runtime-main.js": "/noelle529/Digital_Business_Card.git/static/js/runtime-main.23e5d369.js",
     "runtime-main.js.map": "/noelle529/Digital_Business_Card.git/static/js/runtime-main.23e5d369.js.map",
     "static/js/2.86ad33dc.chunk.js": "/noelle529/Digital_Business_Card.git/static/js/2.86ad33dc.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.23e5d369.js",
     "static/js/2.86ad33dc.chunk.js",
     "static/css/main.f249deab.chunk.css",
-    "static/js/main.c1cc8034.chunk.js"
+    "static/js/main.caa4ed86.chunk.js"
   ]
 }
