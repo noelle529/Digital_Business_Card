@@ -36,14 +36,14 @@ function App() {
        </div>
        <div className="Misc">
          <div>
-         <a href="https://www.instagram.com/thealchemistpantry/" target="_blank">
+         <a href="https://www.instagram.com/thealchemistpantry/" target="_blank" rel="noreferrer">
          <i class="fab fa-instagram"></i>
          </a>
-         <a href="https://www.etsy.com/shop/TheAlchemistPantry" target="_blank"><i class="fab fa-etsy"></i>
+         <a href="https://www.etsy.com/shop/TheAlchemistPantry" target="_blank" rel="noreferrer"><i class="fab fa-etsy"></i>
          </a>
-         <a href="https://github.com/noelle529" target="_blank"><i class="fab fa-github"></i>
+         <a href="https://github.com/noelle529" target="_blank" rel="noreferrer"><i class="fab fa-github"></i>
          </a>
-         <a href="https://www.linkedin.com/in/noelle-charter12/" target="_blank">
+         <a href="https://www.linkedin.com/in/noelle-charter12/" target="_blank" rel="noreferrer">
          <i class="fab fa-linkedin-in"></i>
          </a>
          </div>
