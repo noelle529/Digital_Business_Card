@@ -50,6 +50,7 @@ function App() {
          </div>
          <h5>Email: thealchemistpainting@gmail.com</h5>
        </div>
+       
      </div>
     </>
   );
